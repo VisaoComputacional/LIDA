@@ -1,0 +1,3 @@
+[submodule "exemplos/LIDA.balance"]
+	path = exemplos/LIDA.balance
+	url = https://github.com/mlohbihler/LIDA.balance

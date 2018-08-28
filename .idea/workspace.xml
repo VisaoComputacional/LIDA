@@ -2,256 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77a71825-6d19-4c54-a36a-98dfabd3ee42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcmail_jdk14_138.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcprov_jdk14_138.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lowagie_itext_2_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jung_jung_algorithms_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jung_jung_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jung_jung_graph_impl_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jung_jung_visualization_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_collections_collections_generic_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfree_jcommon_1_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfree_jfreechart_1_0_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/Action.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/ActionImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/ActionSelection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/ActionSelectionListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/BasicActionSelection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/Behavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/BehaviorImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/PreafferenceListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/behaviornetwork/.nbattrs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/behaviornetwork/BehaviorNetwork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/actionselection/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/attentioncodelets/AttentionCodelet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/attentioncodelets/AttentionCodeletImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/attentioncodelets/AttentionCodeletModule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/attentioncodelets/BasicAttentionCodelet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/attentioncodelets/DefaultAttentionCodelet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/attentioncodelets/NeighborhoodAttentionCodelet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/attentioncodelets/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/environment/Environment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/environment/EnvironmentImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/environment/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/BasicEpisodicMemoryInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/CueListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/EpisodicMemory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/EpisodicMemoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/LocalAssociationListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/sdm/BasicTranslator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/sdm/BitVectorUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/sdm/HardLocation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/sdm/HardLocationImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/sdm/SparseDistributedMemory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/sdm/SparseDistributedMemoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/sdm/Translator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/episodicmemory/sdm/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/Agent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/AgentImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/CodeletManagerModule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/FrameworkModule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/FrameworkModuleImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/ModuleListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/ModuleName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/FrameworkGui.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/FrameworkGui.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/FrameworkGuiController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/FrameworkGuiControllerImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/FrameworkGuiFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/AddPanelCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/AddTicksCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/CommandImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/EnableTicksModeCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/PauseRunningThreadsCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/QuitAllCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/ResetEnvironmentCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/ResumeRunningThreadsCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/SetTimeScaleCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/commands/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/events/FrameworkGuiEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/events/FrameworkGuiEventListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/events/GuiEventProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/events/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/ActionSelectionPanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/ActionSelectionPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/ActivationChartPanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/ActivationChartPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/AddEditPanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/AddEditPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/ConfigurationFilesPanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/ConfigurationFilesPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/ControlToolBarPanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/ControlToolBarPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/FrameworkTaskPanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/FrameworkTaskPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/GlobalWorkspaceTablePanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/GlobalWorkspaceTablePanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/GuiPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/GuiPanelImpl.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/GuiPanelImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/LoggingPanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/LoggingPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/NodeStructurePanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/NodeStructurePanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/NodeStructureTable.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/NodeStructureTable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/ProceduralMemoryPanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/ProceduralMemoryPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/TaskQueuePanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/TaskQueuePanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/panels/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/utils/GuiLink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/utils/GuiUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/utils/NodeIcon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/utils/NodeStructureGuiAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/gui/utils/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/AgentFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/AgentStarter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/AgentXmlFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/ConfigUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/FactoriesDataXmlLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/FrameworkFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/FrameworkTaskDef.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/FullyInitializable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/GlobalInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/Initializable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/InitializableImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/Initializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/LinkableDef.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/ModuleUsage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/StrategyDef.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/XmlUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/config/LidaFactories.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/config/LidaXMLSchema.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/initialization/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/ConcurrentHashSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/ElementFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/ExtendedId.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/Link.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/LinkCategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/LinkImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/Linkable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/NodeImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/NodeStructure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/NodeStructureImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/NodeType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/RefractoryPeriod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/RootableNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/RootableNodeImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/UnmodifiableNodeStructureImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/activation/Activatible.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/activation/ActivatibleImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/activation/Desirable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/activation/Learnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/activation/LearnableImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/activation/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/shared/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/DecayStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/DefaultTotalActivationStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/ExciteStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/LinearDecayStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/LinearExciteStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/NoDecayStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/NoExciteStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/SigmoidDecayStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/SigmoidExciteStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/Strategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/StrategyImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/TotalActivationStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/strategies/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/tasks/Codelet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/tasks/CodeletImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/tasks/FrameworkTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/tasks/FrameworkTaskImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/tasks/RandomizingTaskSpawner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/tasks/TaskManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/tasks/TaskSpawner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/tasks/TaskSpawnerImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/tasks/TaskStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/framework/tasks/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/BroadcastContent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/BroadcastListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/Coalition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/CoalitionImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/GlobalWorkspace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/GlobalWorkspaceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/GlobalWorkspaceInitalizer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/GlobalWorkspaceInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/triggers/AggregateCoalitionActivationTrigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/triggers/BroadcastTrigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/triggers/IndividualCoaltionActivationTrigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/triggers/NoBroadcastOccurringTrigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/triggers/NoCoalitionArrivingTrigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/triggers/TriggerListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/triggers/TriggerTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/globalworkspace/triggers/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/BasicPamInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/PamLink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/PamLinkImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/PamLinkable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/PamListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/PamNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/PamNodeImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/PerceptualAssociativeMemory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/PerceptualAssociativeMemoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/PropagationStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/UpscalePropagationStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/tasks/AddLinkToPerceptTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/tasks/AddNodeStructureToPerceptTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/tasks/AddNodeToPerceptTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/tasks/BasicDetectionAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/tasks/DetectionAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/tasks/ExcitationTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/tasks/MultipleDetectionAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/tasks/PropagationTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/pam/tasks/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/proceduralmemory/BasicProceduralMemoryInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/proceduralmemory/Condition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/proceduralmemory/ProceduralMemory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/proceduralmemory/ProceduralMemoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/proceduralmemory/ProceduralMemoryListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/proceduralmemory/ProceduralUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/proceduralmemory/Scheme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/proceduralmemory/SchemeImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/proceduralmemory/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/sensorymemory/SensoryMemory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/sensorymemory/SensoryMemoryBackgroundTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/sensorymemory/SensoryMemoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/sensorymemory/SensoryMemoryListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/sensorymemory/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/sensorymotormemory/BasicSensoryMotorMemory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/sensorymotormemory/BasicSensoryMotorMemoryInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/sensorymotormemory/SensoryMotorMemory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/sensorymotormemory/SensoryMotorMemoryListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/sensorymotormemory/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/CueBackgroundTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/UpdateCsmBackgroundTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/Workspace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/WorkspaceContent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/WorkspaceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/WorkspaceListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/structurebuildingcodelets/BasicStructureBuildingCodelet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/structurebuildingcodelets/StructureBuildingCodelet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/structurebuildingcodelets/StructureBuildingCodeletImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/structurebuildingcodelets/StructureBuildingCodeletModule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/structurebuildingcodelets/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/workspacebuffers/BroadcastQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/workspacebuffers/BroadcastQueueImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/workspacebuffers/WorkspaceBuffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/workspacebuffers/WorkspaceBufferImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/memphis/ccrg/lida/workspace/workspacebuffers/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -288,13 +39,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="0-SNAPSHOT" value="1" />
-          <entry key="java" value="11" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="12" />
+          <entry key="md" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="12" />
+          <entry key="Markdown" value="1" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -313,19 +68,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/gui/panels/LoggingPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#0#11022#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/episodicmemory/sdm/SparseDistributedMemoryImpl.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -365,32 +107,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/gui/utils/NodeStructureGuiAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/gui/panels/ActivationChartPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/gui/panels/NodeStructurePanel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-72">
-              <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+              <caret line="44" column="37" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LIDA-Framework-1.2b.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="288">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/initialization/AgentStarter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -501,7 +252,20 @@
               <item name="LIDA-Framework-1.2b" type="b2602c69:ProjectViewProjectNode" />
               <item name="LIDA-Framework-1.2b" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lida" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LIDA-Framework-1.2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LIDA-Framework-1.2b" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lida" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -515,7 +279,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535480206775" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535480411746" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -565,18 +329,17 @@
       <option name="presentableId" value="Default" />
       <updated>1534972656443</updated>
       <workItem from="1534972659144" duration="1616000" />
-      <workItem from="1535478628243" duration="1578000" />
+      <workItem from="1535478628243" duration="1889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3194000" />
+    <option name="totallyTimeSpent" value="3505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="3840" height="2081" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25336564" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25336564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -585,14 +348,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295583" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295583" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295583" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3227633" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -694,13 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/proceduralmemory/ProceduralMemoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/gui/panels/ActivationChartPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
@@ -711,17 +467,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/gui/panels/NodeStructurePanel.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/gui/utils/NodeStructureGuiAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+        <state relative-caret-position="72">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/gui/utils/NodeStructureGuiAdapter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/proceduralmemory/ProceduralMemoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        <state relative-caret-position="540">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/gui/panels/NodeStructurePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIDA-Framework-1.2b.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="288">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/memphis/ccrg/lida/framework/initialization/AgentStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
         </state>
       </provider>
     </entry>
